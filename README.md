@@ -1,2 +1,2 @@
-# countdown
-practice countdown timer project for future website
+# Countdown timer
+Practice countdown timer project for future website
